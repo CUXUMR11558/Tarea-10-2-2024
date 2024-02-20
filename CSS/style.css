@@ -1,0 +1,75 @@
+
+body{
+    margin: 15px 10x 10px 10px;
+    background-color: black;
+    margin-top: 10px;
+    background-image: url(../Images/policia.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+    width: 2500x;
+    height: 2500px;
+    border: 20px solid black;
+    margin-left: 260px;
+    margin-right:260px;
+    
+}
+#div1{
+    background-image: url(../Images/chocoj.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+    height: 800px;
+    margin-top: 50px;
+
+}
+.mario{
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px; 
+    padding: 5px;
+    border: solid 20px red; 
+    text-shadow: 7px 7px 7px;
+      
+}
+.parrafo{
+    color: black;
+    background-color: skyblue;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    margin-top: 90px;
+    border: 15px solid blue;
+    overflow: 12px black;
+    text-shadow: 1px 2px 2px ;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+table{
+    margin-top: 150px;
+    border: solid blue;
+    font-size: 45px;
+    background-color: aqua;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+tr{
+    border: solid blue;
+    border-collapse: collapse;
+}
+th{
+    border:solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td{
+    border:solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
